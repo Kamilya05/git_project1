@@ -1,6 +1,7 @@
 def main():
-    print('My first git program 11')
+    print('My first git program')
     print('And I change it every day')
+    print('one more')
 
 
 if __name__ == '__main__':
